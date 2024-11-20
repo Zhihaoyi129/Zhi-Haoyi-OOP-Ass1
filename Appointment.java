@@ -1,3 +1,7 @@
+/**
+ * Appointment 类用于表示患者与健康专业人员之间的预约信息。
+ * 包含患者的基本信息、预约时间以及与之关联的医生对象。
+ */
 public class Appointment {
     private String patientName;//名字
     private String patientMobile;//手机号，用于预约（唯一标识）
